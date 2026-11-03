@@ -1,0 +1,7 @@
+numpy
+scipy
+bilby>=2.7.1
+# only for fast_conversion.py (free luminosity_distance):
+wcosmo
+pandas
+astropy
